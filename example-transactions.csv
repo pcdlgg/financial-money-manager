@@ -1,0 +1,20 @@
+Date,Category,Description,Type,Account,Amount
+2024-01-01,Salary,Monthly salary,income,Checking,4500
+2024-01-02,Rent,Monthly rent,expense,Checking,1200
+2024-01-03,Groceries,Supermarket,expense,Checking,125.50
+2024-01-04,Utilities,Electricity,expense,Checking,85
+2024-01-05,Entertainment,Cinema,expense,Checking,30
+2024-01-06,Transport,Fuel,expense,Checking,55
+2024-01-06,Freelance,Project payment,income,Checking,800
+2024-01-07,Healthcare,Doctor,expense,Savings,120
+2024-01-08,Groceries,Shopping,expense,Checking,98.75
+2024-01-09,Dining,Restaurant,expense,Checking,65
+2024-01-10,Shopping,Clothing,expense,Savings,150
+2024-01-11,Internet,Monthly service,expense,Checking,50
+2024-01-12,Insurance,Car insurance,expense,Checking,120
+2024-01-13,Bonus,Performance bonus,income,Checking,500
+2024-01-15,Entertainment,Tickets,expense,Savings,80
+2024-01-18,Freelance,Work payment,income,Checking,600
+2024-01-20,Shopping,Tech items,expense,Savings,85
+2024-01-25,Salary,Monthly advance,income,Checking,2250
+2024-01-31,Bonus,Referral bonus,income,Checking,250
